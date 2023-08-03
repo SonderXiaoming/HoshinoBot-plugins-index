@@ -8,7 +8,7 @@
 
 | 名称 | 作者 | 备注 | 更新时间<br>（北京时间） |
 | --- | --- | --- | --- |
-| [你只需要出刀](https://github.com/SonderXiaoming/kanna_connection_redive) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 自动报刀，box查询，分刀 |2023-07-26 09:23:32|
+| [你只需要出刀](https://github.com/SonderXiaoming/kanna_connection_redive) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 自动报刀，box查询，分刀 |2023-08-02 16:00:11|
 | [Claude-in-hoshino](https://github.com/assassingyk/Claude-in-hoshino) | [@assassingyk](https://github.com/assassingyk) | 适用hoshino bot的claude for slack插件 |2023-07-13 01:04:01|
 | [银趴](https://github.com/BeiYazi0/yinpa) | [@贝亚子零号](https://github.com/BeiYazi0) | 移植自nb2插件(牛牛比拼) |2023-07-11 16:17:41|
 | [AI锐评](https://github.com/SonderXiaoming/hunnai_eitherchoice) | [@SonderXiaoming](https://github.com/SonderXiaoming) | AI，到底是3k美金大还是2k人民币大？ |2023-07-19 16:24:22|
@@ -23,7 +23,7 @@
 | [星穹铁道资源查询](https://github.com/Cathgao/Honkai_Starrail_bot) | [@Cathgao](https://github.com/Cathgao) | 可在群聊中查询星铁的资源地图|2023-07-14 15:22:50|
 | [图片版lssv](https://github.com/RSRH-Rs/Hoshino-plugin-image-lssv) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 图片版lssv，缝合的原版lssv和无疑佬的原神uid插件 |2023-05-03 19:36:20|
 | [网页截图](https://github.com/RSRH-Rs/Hoshino-plugin-webscreenshot) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 异步网页截图，不会堵塞 |2023-05-17 19:38:18|
-| [游戏内会战推送](https://github.com/AddOneSecondL/pcrjjc2-clanbattle) | [@AddOneSecondL](https://github.com/AddOneSecondL) | 基于pcrjjc2通信的会战推送(DLC了属于是 |2023-07-22 11:57:50|
+| [游戏内会战推送](https://github.com/AddOneSecondL/pcrjjc2-clanbattle) | [@AddOneSecondL](https://github.com/AddOneSecondL) | 基于pcrjjc2通信的会战推送(DLC了属于是 |2023-07-26 10:20:13|
 | [群AI&chatGPT](https://github.com/joeyHXD/aichat_chatGPT_API) | [@joeyHXD](https://github.com/joeyHXD) | chatGPT的插件，写完发现已经有现成的，我哭死，优点在于能理解用户名并且临时会话不需要发前缀 |2023-04-18 23:54:18|
 | [伪造消息](https://github.com/BeiYazi0/fake_news) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的伪造群聊消息插件 |2023-03-11 20:47:53|
 | [补偿时间轴计算](https://github.com/bbareo/carryover_cal) | [@背包](https://github.com/bbareo) | 计算补偿时间对应TL |2023-03-02 21:41:26|
@@ -64,7 +64,7 @@
 | [鉴定群友](https://github.com/pcrbot/determine) | [@chu3](https://github.com/chu3)  | 鉴定群友是0还是1(可以扩展) |2022-08-20 17:11:19|
 | [柚子社语音](https://github.com/SonderXiaoming/youzi_voice) | [@SonderXiaoming](https://github.com/SonderXiaoming)  | 模仿柚子社角色的声音（支持中文，日文） |2023-04-08 13:56:08|
 | [猜单词](https://github.com/kokoro-ele/Wordle4Hoshino) | [@kokoro](https://github.com/kokoro-ele) | wordle游戏 |2022-08-01 17:51:19|
-| [出刀记录图片版](https://github.com/othinus001/Daidao) | [@othinus001](https://github.com/othinus001) | 进度表，代刀表，合刀，一穿二，附代刀提醒系统 |2022-09-20 23:47:32|
+| [出刀记录图片版](https://github.com/othinus001/Daidao) <!--cont.-->| [@othinus001](https://github.com/othinus001) | 进度表，代刀表，合刀，一穿二，附代刀提醒系统 |2022-09-20 23:47:32|
 | [FGO Gacha](https://github.com/kcn3388/fgogacha) | [@kcn3388](https://github.com/kcn3388) | 简单的FGO抽卡模拟器 |2023-06-02 08:47:00|
 | [HoshinoBot-Plugins](https://github.com/mengshouer/HoshinoBot-Plugins) | [@mengshouer](https://github.com/mengshouer) | 常用的插件有： bilibili解析、直链获取、RSS |2023-04-28 14:37:13|
 | [切噜一下魔改版](https://github.com/SonderXiaoming/cherugo) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 支持发送语音，改自原生插件 |2022-07-23 13:23:55|
