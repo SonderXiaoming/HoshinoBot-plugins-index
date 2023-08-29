@@ -165,11 +165,11 @@
 | [Tarot](https://github.com/haha114514/tarot_hoshino) | 修改为Hoshinobot版：[@haha114514](https://github.com/haha114514)   源代码：[@realhyy](https://github.com/realhyy)  | 适用于HoshinoBot的哔哩哔哩主题塔罗牌抽签(灵感来自于https://github.com/loli-fish/destiny_tarrot-CQnonebot ）|2022-10-28 21:47:32|
 | [lifeRestart_bot](https://github.com/DaiShengSheng/lifeRestart_bot) | [@DaiShengSheng](https://github.com/DaiShengSheng) | 适用于HoshinoBot的人生重来模拟器(remake.jpg) |2021-10-06 18:53:56|
 | [LocalSetu](https://github.com/pcrbot/LocalSetu) | [@benx1n](https://github.com/benx1n) | 可协同维护图库质量的本地setu插件，支持私聊上传、自动审核、获取P站TAG、原画 |2022-07-16 02:34:21|
-| [Hoshino语音增强](https://github.com/Soung2279/advance_R) <!--cont.-->| [@Soung2279](https://github.com/Soung2279) | 通过修改R.py文件，实现Hoshino使用R模块调用语音 |2021-08-26 20:24:59|
+| [Hoshino语音增强](https://github.com/Soung2279/advance_R) | [@Soung2279](https://github.com/Soung2279) | 通过修改R.py文件，实现Hoshino使用R模块调用语音 |2021-08-26 20:24:59|
 | [AI对话](https://github.com/pcrbot/aichat) | [@HMScygnet](https://github.com/HMScygnet) | 由腾讯自然语言处理api实现的AI对话插件 |2021-09-15 21:24:47|
 | [假期查询](https://github.com/pcrbot/holiday) | [@HMScygnet](https://github.com/HMScygnet) | 用来查询假期与调休的插件 |2021-08-25 00:04:36|
 | [github仓库监控插件](https://github.com/azmiao/github_reminder) | [@azmiao](https://github.com/azmiao) | 查某个仓库的commits记录和监控并推送提醒仓库的更新（比如这个插件索引） |2023-03-26 20:08:43|
-| [群友生日祝贺插件](https://github.com/pcrbot/mem_birthday) | [@azmiao](https://github.com/azmiao) | 祝贺群友生日快乐 |2022-07-15 21:02:05|
+| [群友生日祝贺插件](https://github.com/pcrbot/mem_birthday) | [@azmiao](https://github.com/azmiao) | 祝贺群友生日快乐 |2023-08-21 08:57:43|
 | [有道智云翻译](https://github.com/pcrbot/youdao_translate) | [@G41mywaifu](https://github.com/G41mywaifu) | 基于有道智云的翻译插件 |2021-12-01 16:13:47|
 | [reminder](https://github.com/assassingyk/reminder) | [@assassingyk](https://github.com/assassingyk) | 仿cqpf风格自定义定时提醒插件（三点几了.jpg） |2021-10-26 13:36:15|
 | [picfinder_take](https://github.com/pcrbot/picfinder_take) | [@assassingyk](https://github.com/assassingyk) | 仿cqpf风格搜图插件（竹竹量产计划） |2022-06-06 13:50:44|
@@ -224,7 +224,7 @@
 | [setu_mix](https://github.com/zyujs/setu_mix) | [@zyujs](https://github.com/zyujs) | 懂的都懂 |2021-01-04 15:25:57|
 | [clanbattle_report](https://github.com/zyujs/clanbattle_report) | [@zyujs](https://github.com/zyujs) | 生成yobot会战报告 |2021-06-15 10:25:32|
 | [clanbattle_rank](https://github.com/zyujs/clanbattle_rank) | [@zyujs](https://github.com/zyujs) | 国服会战排名查询和 推送 |2022-02-21 13:58:53|
-| [clanbattle_info](https://github.com/zyujs/clanbattle_info) | [@zyujs](https://github.com/zyujs) | 国服会战出刀信息推 送及yobot自动报刀 |2020-12-14 20:30:13|
+| [clanbattle_info](https://github.com/zyujs/clanbattle_info) <!--cont.-->| [@zyujs](https://github.com/zyujs) | 国服会战出刀信息推 送及yobot自动报刀 |2020-12-14 20:30:13|
 | [FF14](https://github.com/zangxx66/HoshinoBot-xcwRecord#pcr无关) | [@zangxx66](https://github.com/zangxx66) | 钓鱼笔记、钓鱼日记、钓鱼区域 |2022-11-22 21:09:39|
 | [群管](https://github.com/zangxx66/HoshinoBot-xcwRecord#聊天) | [@zangxx66](https://github.com/zangxx66) | 迫害龙王、 申请头衔等 |2022-11-22 21:09:39|
 | [反哔哩哔哩小程序](https://github.com/zangxx66/HoshinoBot-xcwRecord#去你大爷的哔哩哔哩小程序) | [@zangxx66](https://github.com/zangxx66) | 关爱电脑党，将小程序转化为链接 |2022-11-22 21:09:39|
