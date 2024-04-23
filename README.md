@@ -14,10 +14,10 @@
 | [AI锐评](https://github.com/SonderXiaoming/hunnai_eitherchoice) | [@SonderXiaoming](https://github.com/SonderXiaoming) | AI，到底是3k美金大还是2k人民币大？ |2023-09-11 15:02:45|
 | [pcrjjc多合一](https://github.com/SonderXiaoming/pcrjjc_huannai2) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 支持b，渠，台三服。竞技场，一个就够了 |2024-03-19 12:40:26|
 | [新版台服竞技场查询](https://github.com/azmiao/pcrjjc_tw_new) | [@azmiao](https://github.com/azmiao) | 由[pcrjjc3](https://github.com/azmiao/pcrjjc3-tw)修改而来</br>兼容[2佬](https://github.com/sdyxxjj123)和[辣鱼佬](https://github.com/layvsan)的适配方法</br>并增加全局禁用推送功能和各种优化 |2024-03-28 10:29:33|
-| [必应聊天](https://github.com/X-Zero-L/BingAIChat) | [@X-Zero-L](https://github.com/X-Zero-L) | bingGPT聊天插件 |2023-10-22 23:13:21|
+| [必应聊天](https://github.com/X-Zero-L/BingAIChat) | [@X-Zero-L](https://github.com/X-Zero-L) | bingGPT聊天插件 |2024-04-15 15:12:10|
 | [漂流瓶](https://github.com/Nao-desu/drift_bottle) | [@Nao-desu](https://github.com/Nao-desu) | hoshino的漂流瓶插件，可在不同群之间传递消息 |2023-07-26 12:11:53|
 | [色图评分fork版](https://github.com/GaryDu0123/SetuScore) | [@GaryDu0123](https://github.com/GaryDu0123) | 对[原仓库](https://github.com/pcrbot/SetuScore)进行了修改, 保持色图评分的常态开启, 评分高于一定值才会进行提示, 添加了可调整的阈值禁言 |2023-05-25 19:25:32|
-| [宝可梦对战V0.2](https://github.com/jiluoQAQ/pokemon) |[@jiluoQAQ](https://github.com/jiluoQAQ) | Q群宝可梦对战V0.2版本<br>(其实还只有领取，还不能对战) |2024-04-15 08:32:55|
+| [宝可梦对战V0.2](https://github.com/jiluoQAQ/pokemon) |[@jiluoQAQ](https://github.com/jiluoQAQ) | Q群宝可梦对战V0.2版本<br>(其实还只有领取，还不能对战) |2024-04-15 13:13:25|
 | [猜猜我是谁](https://github.com/jiluoQAQ/pokemon_whois) |[@jiluoQAQ](https://github.com/jiluoQAQ) | 宝可梦猜猜我是谁 |2023-10-09 16:51:17|
 | [谁艾特我](https://github.com/RSRH-Rs/whoatme) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 看看谁在群里天天艾特我 |2023-05-11 12:22:21|
 | [星穹铁道资源查询](https://github.com/Cathgao/Honkai_Starrail_bot) | [@Cathgao](https://github.com/Cathgao) | 可在群聊中查询星铁的资源地图|2023-07-14 15:22:50|
@@ -216,7 +216,7 @@
 | [女装迫害插件](https://github.com/MiaoXia0/NvZhuang) | [@MiaoXia0](https://github.com/MiaoXia0) | 发图迫害群友女装 |2021-02-09 18:25:31|
 | [PCR贵族决斗（带下注）](https://github.com/Rs794613/PcrDuel) | [@Rs794613](https://github.com/Rs794613) | 创建贵族进行俄罗斯轮盘决斗，提升爵位，抢夺公主。 |2022-06-14 17:22:04|
 | [PCR赛跑（带下注）](https://github.com/Rs794613/PcrRun) | [@Rs794613](https://github.com/Rs794613) | 带下注和技能的pcr角色赛跑，可以自己设计角色。 |2021-02-16 20:42:37|
-| [合刀](https://github.com/bugaosuni59/my_Hoshinobot_plugins) <!--cont.-->| [@bugaosuni59](https://github.com/bugaosuni59) | 合刀计算器(2刀) |2020-12-25 00:47:55|
+| [合刀](https://github.com/bugaosuni59/my_Hoshinobot_plugins) | [@bugaosuni59](https://github.com/bugaosuni59) | 合刀计算器(2刀) |2020-12-25 00:47:55|
 | [setu_renew](https://github.com/pcrbot/setu_renew) | [@corvo007](https://github.com/corvo007) | setu_mix的改进版 |2022-08-18 19:18:04|
 | [pcr_calendar](https://github.com/zyujs/pcr_calendar) | [@zyujs](https://github.com/zyujs) | 推送和查询国/日/台服活动 日历 |2023-04-11 13:30:36|
 | [星乃调教助手](https://github.com/zyujs/hoshino_training) | [@zyujs](https://github.com/zyujs) | HoshinoBot功能定制 |2023-01-29 08:36:58|
