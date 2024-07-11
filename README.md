@@ -13,11 +13,11 @@
 | [银趴](https://github.com/BeiYazi0/yinpa) | [@贝亚子零号](https://github.com/BeiYazi0) | 移植自nb2插件(牛牛比拼) |2023-07-11 16:17:41|
 | [AI锐评](https://github.com/SonderXiaoming/hunnai_eitherchoice) | [@SonderXiaoming](https://github.com/SonderXiaoming) | AI，到底是3k美金大还是2k人民币大？ |2023-09-11 15:02:45|
 | [pcrjjc多合一](https://github.com/SonderXiaoming/pcrjjc_huannai2) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 支持b，渠，台三服。竞技场，一个就够了 |2024-03-19 12:40:26|
-| [新版台服竞技场查询](https://github.com/azmiao/pcrjjc_tw_new) | [@azmiao](https://github.com/azmiao) | 由[pcrjjc3](https://github.com/azmiao/pcrjjc3-tw)修改而来</br>兼容[2佬](https://github.com/sdyxxjj123)和[辣鱼佬](https://github.com/layvsan)的适配方法</br>并增加全局禁用推送功能和各种优化 |2024-06-25 08:56:21|
+| [新版台服竞技场查询](https://github.com/azmiao/pcrjjc_tw_new) | [@azmiao](https://github.com/azmiao) | 由[pcrjjc3](https://github.com/azmiao/pcrjjc3-tw)修改而来</br>兼容[2佬](https://github.com/sdyxxjj123)和[辣鱼佬](https://github.com/layvsan)的适配方法</br>并增加全局禁用推送功能和各种优化 |2024-07-10 13:39:36|
 | [必应聊天](https://github.com/X-Zero-L/BingAIChat) | [@X-Zero-L](https://github.com/X-Zero-L) | bingGPT聊天插件 |2024-06-26 12:47:27|
 | [漂流瓶](https://github.com/Nao-desu/drift_bottle) | [@Nao-desu](https://github.com/Nao-desu) | hoshino的漂流瓶插件，可在不同群之间传递消息 |2023-07-26 12:11:53|
 | [色图评分fork版](https://github.com/GaryDu0123/SetuScore) | [@GaryDu0123](https://github.com/GaryDu0123) | 对[原仓库](https://github.com/pcrbot/SetuScore)进行了修改, 保持色图评分的常态开启, 评分高于一定值才会进行提示, 添加了可调整的阈值禁言 |2023-05-25 19:25:32|
-| [宝可梦对战V0.2](https://github.com/jiluoQAQ/pokemon) |[@jiluoQAQ](https://github.com/jiluoQAQ) | Q群宝可梦对战V0.2版本<br>(其实还只有领取，还不能对战) |2024-07-01 11:29:00|
+| [宝可梦对战V0.2](https://github.com/jiluoQAQ/pokemon) |[@jiluoQAQ](https://github.com/jiluoQAQ) | Q群宝可梦对战V0.2版本<br>(其实还只有领取，还不能对战) |2024-07-09 11:22:15|
 | [猜猜我是谁](https://github.com/jiluoQAQ/pokemon_whois) |[@jiluoQAQ](https://github.com/jiluoQAQ) | 宝可梦猜猜我是谁 |2023-10-09 16:51:17|
 | [谁艾特我](https://github.com/RSRH-Rs/whoatme) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 看看谁在群里天天艾特我 |2023-05-11 12:22:21|
 | [星穹铁道资源查询](https://github.com/Cathgao/Honkai_Starrail_bot) | [@Cathgao](https://github.com/Cathgao) | 可在群聊中查询星铁的资源地图|2023-07-14 15:22:50|
@@ -62,7 +62,7 @@
 | [E7装备分](https://github.com/BlackTitle/HoshinoBOT_E7score) | [@BlackTitle](https://github.com/BlackTitle) | 第七史诗简陋算分工具 |2022-08-22 21:00:47|
 | [Dynamite](https://github.com/yuhao7370/Dynamite-Hoshino-Plugin) | [@yuhao7370](https://github.com/yuhao7370)  | 社区音游Dynamite查分模块 |2022-11-05 19:55:06|
 | [鉴定群友](https://github.com/pcrbot/determine) | [@chu3](https://github.com/chu3)  | 鉴定群友是0还是1(可以扩展) |2022-08-20 17:11:19|
-| [柚子社语音](https://github.com/SonderXiaoming/youzi_voice) | [@SonderXiaoming](https://github.com/SonderXiaoming)  | 模仿柚子社角色的声音（支持中文，日文） |2024-01-02 12:58:32|
+| [柚子社语音](https://github.com/SonderXiaoming/youzi_voice) <!--cont.-->| [@SonderXiaoming](https://github.com/SonderXiaoming)  | 模仿柚子社角色的声音（支持中文，日文） |2024-01-02 12:58:32|
 | [猜单词](https://github.com/kokoro-ele/Wordle4Hoshino) | [@kokoro](https://github.com/kokoro-ele) | wordle游戏 |2022-08-01 17:51:19|
 | [出刀记录图片版](https://github.com/othinus001/Daidao) | [@othinus001](https://github.com/othinus001) | 进度表，代刀表，合刀，一穿二，附代刀提醒系统 |2022-09-20 23:47:32|
 | [FGO Gacha](https://github.com/kcn3388/fgogacha) | [@kcn3388](https://github.com/kcn3388) | 简单的FGO抽卡模拟器 |2024-03-19 10:23:18|
