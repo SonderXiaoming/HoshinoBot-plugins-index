@@ -8,7 +8,7 @@
 
 | 名称 | 作者 | 备注 | &emsp;&emsp;&emsp;&emsp;&emsp;<br>更新时间<br>&emsp;&emsp;&emsp;&emsp;&emsp; |
 | --- | --- | --- | :---: |
-| [占卜](https://github.com/SonderXiaoming/huannai-plugin-shindan) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 移植自nb2的nonebot-plugin-shindan |2024-09-15 11:09:54|
+| [占卜](https://github.com/SonderXiaoming/huannai-plugin-shindan) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 移植自nb2的nonebot-plugin-shindan |2024-10-12 08:53:29|
 | [汇率](https://github.com/pcrbot/hoshinobot-plugin-exchange-rate) | [@yuudi](https://github.com/yuudi) | 汇率 |2024-06-30 16:56:57|
 | [今日老婆2](https://github.com/Rinco304/hoshino-daliywife2) | [@Rinco304](https://github.com/Rinco304) | 一个适用于HoshinoBot的可以换老婆的随机抽取群友作为老婆插件 |2024-06-26 12:58:54|
 | [抽老婆数据版完全重置](https://github.com/Rlezzo/WifeGacha/tree/master) | [@Rlezzo](https://github.com/Rlezzo) | 之前的版本拓展很困难，听GPT的用什么DDD。ORM重写了一个 |2024-09-14 12:20:54|
@@ -279,7 +279,7 @@
 | [公会战排名](https://github.com/pcrbot/erinilis-modules/tree/master/eclanrank) | [@yuyumoko](https://github.com/yuyumoko) | |2022-11-12 18:59:28|
 | [风纪](https://github.com/pcrbot/erinilis-modules/tree/master/eclanblack) | [@yuyumoko](https://github.com/yuyumoko) | NGA 风纪区黑名单查询 |2022-11-12 18:59:28|
 | [度盘](https://github.com/pcrbot/erinilis-modules/tree/master/baidupan) | [@yuyumoko](https://github.com/yuyumoko) |  度盘直链解析 |2022-11-12 18:59:28|
-| [点歌](https://github.com/pcrbot/music) <!--cont.-->| [@laipz8200](https://github.com/laipz8200) | |2021-09-03 15:04:24|
+| [点歌](https://github.com/pcrbot/music) | [@laipz8200](https://github.com/laipz8200) | |2021-09-03 15:04:24|
 | [steam](https://github.com/pcrbot/steam) | [@wdvxdr1123](https://github.com/wdvxdr1123) | ~~“群主正在游玩猫娘乐园”~~ |2024-03-24 04:01:17|
 | [公会战筛刀](https://github.com/pcrbot/filter_knife) | [@H-K-Y](https://github.com/H-K-Y) | |2021-08-18 03:01:47|
 | [原神插件](https://github.com/pcrbot/Genshin_Impact_bot) | [@H-K-Y](https://github.com/H-K-Y) | 抽卡、找神瞳、丘丘语翻译、资源位置查询 |2021-07-24 11:30:32|
