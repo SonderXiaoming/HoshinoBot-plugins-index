@@ -66,7 +66,7 @@
 | [图像混合](https://github.com/BeiYazi0/Img_Mix) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的图像混合插件 |2023-04-25 19:44:03|
 |[pcrjjc2魔改版](https://github.com/SonderXiaoming/pcrjjc_huannai)| [@SonderXiaoming](https://github.com/SonderXiaoming) |可绑多uid、可私聊/群聊通知、多线程、自动过验证码。（主要优化了一下代码和简化配置）|2023-12-20 10:00:00|
 | [猜群友](https://github.com/BeiYazi0/groupguess) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的猜群友小游戏插件 |2022-10-20 19:47:30|
-| [ai对话免费版](https://github.com/joeyHXD/ai) <!--cont.-->| [@joey](https://github.com/joeyHXD) | 以原版ai对话为基础，默认使用[青云客](https://api.qingyunke.com)的api，不需要开通腾讯智能服务也能使用，并且加入了反并发 |2022-10-21 18:44:54|
+| [ai对话免费版](https://github.com/joeyHXD/ai) | [@joey](https://github.com/joeyHXD) | 以原版ai对话为基础，默认使用[青云客](https://api.qingyunke.com)的api，不需要开通腾讯智能服务也能使用，并且加入了反并发 |2022-10-21 18:44:54|
 | [Ai绘图/以图绘图](https://github.com/CYDXDianXian/AI_image_gen) | [@穿越电线](https://github.com/CYDXDianXian) [@sanshanya](https://github.com/sanshanya) | 通过tag生成图片，以图生图，XP查询，每日上限与频率限制，群黑/白名单，自动屏蔽超级大群，设置屏蔽词tag等功能 |2022-11-21 15:19:44|
 | [ai绘图安全版](https://github.com/jiyemengmei/AI_Draw_safemode) | [@姬野梦美](https://github.com/jiyemengmei) | 通过上传图片参数至数据库，来实现快捷的图片预览、图片TAG获取、对应标签的ai图片生成等功能。 |2022-10-20 22:04:56|
 | [龙图检测](https://github.com/Mzmba/dragon_killer) | [@Mzmba](https://github.com/Mzmba) | 基于opencv的龙图检测插件，代码待优化 |2022-09-24 21:27:28|
@@ -109,9 +109,9 @@
 | [sysinfo-for-hoshino](https://github.com/PerfBleu/sysinfo-for-hoshino) | [@PerfBleu](https://github.com/PerfBleu) | 调用screenfetch获取系统信息 |2022-05-26 21:09:37|
 | [wows-stats-bot](https://github.com/benx1n/wows-stats-bot) | [@benx1n](https://github.com/benx1n) | 战舰世界/窝窝屎水表插件，yuyuko的hoshino实现，支持wws me recent |2024-09-04 20:13:33|
 | [数字恶臭化插件](https://github.com/SonderXiaoming/homo) | [@SonderXiaoming](https://github.com/SonderXiaoming) [@stbcx001](https://github.com/stbcx001)| 将任意数字以114514表示 |2022-05-24 13:39:57|
-| [头像表情包生成器](https://github.com/Lanly109/headimg_generator) | [@Lanly109](https://github.com/Lanly109) | 移植自[nonebot-plugin-petpet](https://github.com/noneplugin/nonebot-plugin-petpet)的头像表情包生成器 |2025-04-02 14:26:13|
+| [头像表情包生成器](https://github.com/Lanly109/headimg_generator) | [@Lanly109](https://github.com/Lanly109) | 移植自[nonebot-plugin-petpet](https://github.com/noneplugin/nonebot-plugin-petpet)的头像表情包生成器 |2025-05-20 21:49:46|
 | [xqa](https://github.com/azmiao/XQA) | [@azmiao](https://github.com/azmiao) | 一个支持正则，支持回流，支持随机回答，支持图片等CQ码的你问我答 |2025-05-08 15:24:51|
-| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 |2025-05-11 01:38:45|
+| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 |2025-05-19 16:09:26|
 | [帮助网页版](https://github.com/SonderXiaoming/autohelp) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 全自动生成帮助网页 |2022-08-13 10:19:54|
 | [丁真插件](https://github.com/Pr0pHesyer/RandomDingzhen) | [@Pr0pHesyer](https://github.com/Pr0pHesyer) | 获取丁真梗图 |2022-05-15 15:44:48|
 | [音游一言](https://github.com/Pr0pHesyer/MUG_one_sentence) | [@Pr0pHesyer](https://github.com/Pr0pHesyer) | 获取及修改有关音游的一言 |2022-05-07 20:42:56|
@@ -148,7 +148,7 @@
 | [疫情获取](https://github.com/SlightDust/yiqing_HoshinoBot) | [@SlightDust](https://github.com/SlightDust) | 获取某地疫情数据 |2022-06-10 20:32:34|
 | [祖安宝典](https://github.com/zangxx66/zuanDictionary) | [@zangxx66](https://github.com/zangxx66) | 口吐芬芳宝典词库 |2022-01-09 02:51:53|
 | [派蒙语言库](https://github.com/3273576540/botchat) | [@Zoe新小白白白](https://github.com/3273576540) | 找了一些多多屁的语音合并到bot语言库 |2022-12-18 20:25:58|
-| [随机疯狂星期四文案](https://github.com/Nicr0n/fucking_crazy_thursday) | [@Nicr0n](https://github.com/Nicr0n) | 一个简单的随机疯狂星期四文案插件 |2022-06-24 09:53:31|
+| [随机疯狂星期四文案](https://github.com/Nicr0n/fucking_crazy_thursday) <!--cont.-->| [@Nicr0n](https://github.com/Nicr0n) | 一个简单的随机疯狂星期四文案插件 |2022-06-24 09:53:31|
 | [幻影坦克生成器](https://github.com/kosakarin/hide_img) | [@kosakarin](https://github.com/kosakarin) | 发送两张图片生成幻影坦克 |2022-01-01 19:34:19|
 | [游戏开黑](https://github.com/kosakarin/play_together) | [@kosakarin](https://github.com/kosakarin) | 辅助群内开黑，可以记录群内开了哪些车 |2022-09-28 15:27:31|
 | [游戏王印卡](https://github.com/N-zi/mahoo) | [@N-zi](https://github.com/N-zi) | 游戏王卡图生成 |2022-08-01 18:05:25|
