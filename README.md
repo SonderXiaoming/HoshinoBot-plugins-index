@@ -66,7 +66,7 @@
 | [伪造消息](https://github.com/BeiYazi0/fake_news) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的伪造群聊消息插件 |2023-03-11 20:47:53|
 | [补偿时间轴计算](https://github.com/bbareo/carryover_cal) | [@背包](https://github.com/bbareo) | 计算补偿时间对应TL |2023-03-02 21:41:26|
 | [犯人在跳舞](https://github.com/bridgeL/criminal_dance) | [@bridgeL](https://github.com/bridgeL/) | 文字版桌游 |2023-02-15 17:23:26|
-| [ayaka小游戏合集](https://github.com/bridgeL/ayaka_games/) <!--cont.-->| [@bridgeL](https://github.com/bridgeL/) | ayaka小游戏合集 |2023-04-25 10:07:16|
+| [ayaka小游戏合集](https://github.com/bridgeL/ayaka_games/) | [@bridgeL](https://github.com/bridgeL/) | ayaka小游戏合集 |2023-04-25 10:07:16|
 | [本地抽卡](https://github.com/BeiYazi0/draw-card) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的抽卡插件，卡池中图片源自于用户上传 |2023-02-12 08:06:58|
 | [B站小程序转链接](https://github.com/liuzhaoze/biliminiapp_to_link) | [@liuzhaoze](https://github.com/liuzhaoze) | B站小程序转链接 |2024-11-29 19:55:44|
 | [运势n合一](https://github.com/SonderXiaoming/huannai_plugin_fortune) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 超多主题，每群都可以独立设置 |2023-12-20 10:01:03|
@@ -110,7 +110,7 @@
 | [签到奖励魔改版](https://github.com/SonderXiaoming/login_bonus) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 新增40种印章，收集册，改自原生插件 |2022-08-21 15:30:31|
 | [give_me_some_heis](https://github.com/Gaylone/give_me_some_heis) | [@Gaylone](https://github.com/Gaylone)| 麻溜滴，来点黑丝/白丝/jk/巨r/网红/足控三次元美图 |2022-07-25 22:44:41|
 | [HosBotManagerWeb](https://github.com/pcrbot/HosBotManagerWeb) | [@LQBing](https://github.com/LQBing)[@shewinder](https://github.com/shewinder) | 由[网页开关](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/webServiceManager)修改而来的hoshinobot服务管理网页版，支持多cq端 |2022-07-22 16:21:40|
-| [DOTA2战绩推送](https://github.com/joeyHXD/dota2_watcher_bot) | [@joeyHXD](https://github.com/joeyHXD) | 基于[CSGO和DOTA2的处刑BOT](https://github.com/greenhaha/dota2_csgo_watcher_bot)魔改而来的DOTA2战绩推送插件 |2024-08-29 00:08:35|
+| [DOTA2战绩推送](https://github.com/joeyHXD/dota2_watcher_bot) <!--cont.-->| [@joeyHXD](https://github.com/joeyHXD) | 基于[CSGO和DOTA2的处刑BOT](https://github.com/greenhaha/dota2_csgo_watcher_bot)魔改而来的DOTA2战绩推送插件 |2024-08-29 00:08:35|
 | [PSO2NGS](https://github.com/cpms/pso2) | [@cpm](https://github.com/cpms)| 基于 [rss 订阅插件](https://github.com/zyujs/rss)魔改而来的 PSO2NGS（梦幻之星 ONLINE2 新纪元）HoshinoBot V2 插件|2024-08-11 13:32:00|
 | [每日番剧推送](https://github.com/benx1n/everyday-bangumi) | [@benx1n](https://github.com/benx1n)| 带大陆版权站的每日番剧查询和自动推送|2023-05-11 09:20:31|
 | [Daily_News](https://github.com/InSnocent/Daily_News) | [@InSnocent](https://github.com/InSnocent)| 适用于HoshinoBot的每日一句话新闻(和另一个插件采用的不一样的来源) |2025-03-13 17:56:56|
