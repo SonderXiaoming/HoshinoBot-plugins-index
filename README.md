@@ -13,7 +13,7 @@
 | [查B站视频工具](https://github.com/duoshoumiao/bilibilisearch) | [@duoshoumiao](https://github.com/duoshoumiao) |关键词查视频|2025-08-26 00:17:40|
 | [查番工具](https://github.com/duoshoumiao/anime_search/tree/main) | [@duoshoumiao](https://github.com/duoshoumiao) |关键词查番|2025-07-12 14:59:07|
 | [功能管理魔改](https://github.com/duoshoumiao/service_manage) | [@duoshoumiao](https://github.com/duoshoumiao) |功能开关|2025-07-12 14:23:17|
-| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) |pcr半月刊|2025-08-30 14:32:57|
+| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) |pcr半月刊|2025-08-31 23:27:56|
 | [知乎小程序转链接](https://github.com/lhhxxxxx/anti_zhihu) | [@lhhxxxxx](https://github.com/lhhxxxxx) | 知乎小程序自动转链接 |2025-05-28 23:57:09|
 | [禁漫转pdf](https://github.com/SlightDust/jmcomic_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 下载jmcomic并转为加密pdf上传到群文件 |2025-05-10 15:09:03|
 | [Git-Manage](https://github.com/KBVsent/Git-Manage) | [@KBVsent](https://github.com/KBVsent) | 适用于 HoshinoBot 的插件更新插件 |2025-04-17 16:57:29|
@@ -56,7 +56,7 @@
 | [漂流瓶](https://github.com/Nao-desu/drift_bottle) | [@Nao-desu](https://github.com/Nao-desu) | hoshino的漂流瓶插件，可在不同群之间传递消息 |2023-07-26 12:11:53|
 | [色图评分fork版](https://github.com/GaryDu0123/SetuScore) | [@GaryDu0123](https://github.com/GaryDu0123) | 对[原仓库](https://github.com/pcrbot/SetuScore)进行了修改, 保持色图评分的常态开启, 评分高于一定值才会进行提示, 添加了可调整的阈值禁言 |2023-05-25 19:25:32|
 | [宝可梦对战](https://github.com/jiluoQAQ/Pokemon) |[@jiluoQAQ](https://github.com/jiluoQAQ) | Q群宝可梦对战 |2025-02-07 13:43:04|
-| [猜猜我是谁](https://github.com/jiluoQAQ/pokemon_whois) |[@jiluoQAQ](https://github.com/jiluoQAQ) | 宝可梦猜猜我是谁 |2023-10-09 16:51:17|
+| [猜猜我是谁](https://github.com/jiluoQAQ/pokemon_whois) <!--cont.-->|[@jiluoQAQ](https://github.com/jiluoQAQ) | 宝可梦猜猜我是谁 |2023-10-09 16:51:17|
 | [谁艾特我](https://github.com/RSRH-Rs/whoatme) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 看看谁在群里天天艾特我 |2024-12-06 12:25:14|
 | [星穹铁道资源查询](https://github.com/Cathgao/Honkai_Starrail_bot) | [@Cathgao](https://github.com/Cathgao) | 可在群聊中查询星铁的资源地图|2023-07-14 15:22:50|
 | [图片版lssv](https://github.com/RSRH-Rs/Hoshino-plugin-image-lssv) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 图片版lssv，缝合的原版lssv和无疑佬的原神uid插件 |2023-05-03 19:36:20|
