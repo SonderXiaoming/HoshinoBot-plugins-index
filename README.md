@@ -13,10 +13,10 @@
 | [查B站视频工具](https://github.com/duoshoumiao/bilibilisearch) | [@duoshoumiao](https://github.com/duoshoumiao) |关键词查视频|2025-08-26 00:17:40|
 | [查番工具](https://github.com/duoshoumiao/anime_search/tree/main) | [@duoshoumiao](https://github.com/duoshoumiao) |关键词查番|2025-07-12 14:59:07|
 | [功能管理魔改](https://github.com/duoshoumiao/service_manage) | [@duoshoumiao](https://github.com/duoshoumiao) |功能开关|2025-07-12 14:23:17|
-| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) |pcr半月刊|2025-08-31 23:27:56|
+| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) |pcr半月刊|2025-09-08 13:36:19|
 | [知乎小程序转链接](https://github.com/lhhxxxxx/anti_zhihu) | [@lhhxxxxx](https://github.com/lhhxxxxx) | 知乎小程序自动转链接 |2025-05-28 23:57:09|
 | [禁漫转pdf](https://github.com/SlightDust/jmcomic_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 下载jmcomic并转为加密pdf上传到群文件 |2025-05-10 15:09:03|
-| [Git-Manage](https://github.com/KBVsent/Git-Manage) | [@KBVsent](https://github.com/KBVsent) | 适用于 HoshinoBot 的插件更新插件 |2025-04-17 16:57:29|
+| [Git-Manage](https://github.com/KBVsent/Git-Manage) | [@KBVsent](https://github.com/KBVsent) | 适用于 HoshinoBot 的插件更新插件 |2025-09-05 15:34:54|
 | [HoshinoGroupMsg](https://github.com/Norca0721/HoshinoGroupMsg) | [@Norca0721](https://github.com/Norca0721) | 适用于 HoshinoBot 的群发消息插件 |2025-03-25 18:15:21|
 | [学マス计算器](https://github.com/Norca0721/GakuenIdolMasterCalculator) | [@Norca0721](https://github.com/Norca0721) | 学マス分数计算器插件 |2025-05-28 15:33:08|
 | [HoshinoReboot](https://github.com/Norca0721/HoshinoReboot) | [@Norca0721](https://github.com/Norca0721) | 适用于 HoshinoBot 的重启插件 |2025-04-28 22:44:01|
@@ -291,7 +291,7 @@
 | [原神卡池记录查询](https://github.com/pcrbot/erinilis-modules/tree/master/genshingachalog) | [@yuyumoko](https://github.com/yuyumoko) | 统计卡池保底信息 |2022-11-12 18:59:28|
 | [eqa](https://github.com/pcrbot/erinilis-modules/tree/master/eqa) | [@yuyumoko](https://github.com/yuyumoko) | 群内设 置问答 |2022-11-12 18:59:28|
 | [人脸合成](https://github.com/pcrbot/erinilis-modules/tree/master/emergeface) | [@yuyumoko](https://github.com/yuyumoko) | 两张图换脸 |2022-11-12 18:59:28|
-| [公会战排名](https://github.com/pcrbot/erinilis-modules/tree/master/eclanrank) <!--cont.-->| [@yuyumoko](https://github.com/yuyumoko) | |2022-11-12 18:59:28|
+| [公会战排名](https://github.com/pcrbot/erinilis-modules/tree/master/eclanrank) | [@yuyumoko](https://github.com/yuyumoko) | |2022-11-12 18:59:28|
 | [风纪](https://github.com/pcrbot/erinilis-modules/tree/master/eclanblack) | [@yuyumoko](https://github.com/yuyumoko) | NGA 风纪区黑名单查询 |2022-11-12 18:59:28|
 | [度盘](https://github.com/pcrbot/erinilis-modules/tree/master/baidupan) | [@yuyumoko](https://github.com/yuyumoko) |  度盘直链解析 |2022-11-12 18:59:28|
 | [点歌](https://github.com/pcrbot/music) | [@laipz8200](https://github.com/laipz8200) | |2021-09-03 15:04:24|
